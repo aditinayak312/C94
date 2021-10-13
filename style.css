@@ -1,0 +1,15 @@
+#practice{
+    border-radius:50%;
+    height:80px;
+    width:80px;
+}
+body{
+    background:linear-gradient(blue 0%, red 100%);
+    color: bisque;
+}
+    .login_div1{
+        color:black;
+        background-color:burlywood;
+        border-radius:20px;
+        font-size:20px;
+    }
